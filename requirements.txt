@@ -1,0 +1,5 @@
+# requirements.txt
+delta-spark==3.2.1
+parquet-tools
+pyngrok
+pyspark==3.5.3
